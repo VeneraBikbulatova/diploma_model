@@ -1,0 +1,6 @@
+path: ./lmd_full
+train: a/spectrs/images
+val: b/spectrs/images
+test: b/spectrs/images
+nc: 2
+names: ['violin', 'not_violin']
